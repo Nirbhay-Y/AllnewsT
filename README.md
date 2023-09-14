@@ -1,6 +1,6 @@
 # AllnewsT
 Hello,
- This is Nirbhay Pravin Yadav I am very happy to launch my first front-end project called AllnewsT.
+ This is Nirbhay Pravin Yadav I am very happy to launch my first FRONT-END project called AllnewsT.
  This AllnewsT gives all news about technology, industries and many more.
  In this, My first pages contains all news about computer languages like PYTHON,
  JAVA,C++ and many more, the reason why in first page i put news about languages
