@@ -8,7 +8,7 @@ export default function C() {
     const [isError, setIsError] = useState('');
     const [openAccordion, setOpenAccordion] = useState(null);
     const [page, setPage] = useState(0); // Initialize the page number to 0
-const [nbPages, setNbPages] = useState(0);
+const [nbPages, setNbPages] = useState(0);// Initialize the Tolal pages number to 0
 
 useEffect(() => {
       axios
