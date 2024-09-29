@@ -1,12 +1,27 @@
 # AllnewsT
-Hello,
- This is Nirbhay Pravin Yadav I am very happy to launch my first FRONT-END project called AllnewsT.
- This AllnewsT gives all news about technology, industries and many more.
- In this, My first pages contains all news about computer languages like PYTHON,
- JAVA,C++ and many more, the reason why in first page i put news about languages
- because the now young students have interest about the computer languages.
- So there is many more components in this AllnewsT which you will enjoy and 
- get to know about the news.
+
+AllnewsT is a simple and interactive web application that fetches and displays the latest news from a third-party API using `axios`. Users can stay updated with real-time news articles on various topics.
+
+## Features
+
+- Fetches live news articles from a third-party API
+- Displays articles with title, description.
+- Categories for browsing news (e.g., Business, Sports, Technology, etc.)
+
+## Tech Stack
+
+- **Frontend**: React.js, Axios
+- **Styling**: Custom CSS
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Nirbhay-Y/AllnewsT.git
+
  
  
  
