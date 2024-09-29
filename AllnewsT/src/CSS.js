@@ -67,7 +67,7 @@ useEffect(() => {
             <div className="News">
             <div className="Written">CSS</div> 
             <div className='MyStyle'>
-{isError!=''&& <h1>{isError}</h1>}
+{isError!==''&& <h1>{isError}</h1>}
 {myData.slice(0,9).map((post) => (
  <div className="accordion" id="accordionExample" key={post.objectID}>
  <div className="accordion-item">
@@ -100,7 +100,7 @@ useEffect(() => {
               <a href={post.url} target='_main'>
                <button className='btn btn-primary'> Read More</button>
               </a>
-              <a href='#' className='Remove'onClick={() => handleRemove(post.objectID)}>
+              <a href='/' className='Remove'onClick={() => handleRemove(post.objectID)}>
                <button className='RemoveButton'>Remove</button> 
               </a>
             </div>
